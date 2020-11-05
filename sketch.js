@@ -71,7 +71,7 @@ function setup() {
 
 function draw() {
   //trex.debug = true;
-  background(195);
+  background(225);
   textSize(20);
  // stroke("red");
 //  strokeWeight(4);
